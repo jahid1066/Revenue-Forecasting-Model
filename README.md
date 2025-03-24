@@ -40,12 +40,3 @@ The goal is to predict future quarterly revenue to assist business planning and 
 These metrics indicate that on average the forecasts deviate by around 4,620 units, with some larger deviations accounted for by RMSE.
 
 ---
-
-## Getting Started
-
-### Prerequisites
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
